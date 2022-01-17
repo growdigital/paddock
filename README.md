@@ -1,2 +1,2 @@
-# paddock
-Plans for Paddock wildlife garden
+# Wild Paddock
+Plans for Wild Paddock garden
